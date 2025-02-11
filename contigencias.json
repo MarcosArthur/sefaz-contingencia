@@ -1,0 +1,50 @@
+{
+    "AM": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "BA": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "GO": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "MA": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "MS": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "MT": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "PE": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    },
+    "PR": {
+        "contigencia_ativa": false,
+        "data_desativacao": "",
+        "notificacao_enviada": false,
+        "informacoes_contigencia": ""
+    }
+}
