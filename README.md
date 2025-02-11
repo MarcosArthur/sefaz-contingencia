@@ -11,7 +11,7 @@ Este projeto monitora e notifica sobre contingências na SEFAZ, enviando alertas
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone git@github.com:MarcosArthur/sefaz-contingencia.git
    cd sefaz_contigencia
    ```
 2. Instale as dependências com Poetry:
