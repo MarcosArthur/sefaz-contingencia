@@ -1,15 +1,16 @@
 [tool.poetry]
 name = "sefaz-contigencia"
 version = "0.1.0"
-description = ""
+description = "Monitora e notifica sobre contingências na SEFAZ em plataformas como Discord, Telegram e Slack."
 authors = ["Marcos Arthur <marcosarthurcruz61@gmail.com>"]
+license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 discord-py = "^2.4.0"
 requests = "^2.32.3"
-
+# Não há biblioteca específica para Telegram ou Slack, pois usamos requests diretamente
 
 [build-system]
 requires = ["poetry-core"]
