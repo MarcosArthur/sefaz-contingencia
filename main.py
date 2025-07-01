@@ -14,5 +14,9 @@ if __name__ == "__main__":
     checker = SEFAZContigenciaChecker(URL, parser, contigencias_manager)
     notification_manager = NotificationManager(platform)
     
+    # Verifica notificações pendentes primeiro (para contingências já ativas)
+    checker.check_pending_notifications(notification_manager)
+    
+    # Faz a verificação normal e notifica sobre mudanças
     checker.check()
     checker.notify(notification_manager)
